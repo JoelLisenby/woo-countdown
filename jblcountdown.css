@@ -1,0 +1,29 @@
+.counter {
+	display: block;
+	text-align: left;
+	font-size: 0.9em;
+}
+.counter.center {
+	text-align: center;
+}
+.counter > div {
+	display: inline-block;
+	padding: 5px 5px;
+	margin: 10px 2px 5px;
+	border-radius: 5px;
+	background-color: #000;
+	text-align: center;
+	color: #fff;
+}
+.counter > div span.time {
+	display: block;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+.counter > div span.label {
+	display: block;
+	color: #ec0080;
+	font-size: 0.8em;
+	text-transform: uppercase;
+	padding-top: 5px;
+}
