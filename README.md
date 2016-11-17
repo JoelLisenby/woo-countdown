@@ -7,6 +7,7 @@ A simple product countdown plugin for WordPress and WooCommerce with a javascrip
 * Does not disable the ability to purchase the product if it has already been added to a cart before the timer runs out.
 * Counter starts at 00:00:00 of the chosen start date.
 * Counter ends after 23:59:59 of the chosen end date.
+* Includes necessary functions to add the countdown to the template manually.
 
 # Setting the start and end dates
 Set the "Countdown Start Date" and "Countdown End Date" options under the "Advanced" tab of  "Product Data" 
