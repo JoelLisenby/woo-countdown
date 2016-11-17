@@ -17,9 +17,7 @@ var jblcountdown = function( id, begin, end ) {
 		
 		jt.render();
 
-		jt.interval = window.setInterval(function() {
-			jt.render();
-		}, 1000 );
+		jt.interval = window.setInterval(jt.render, 1000 );
 	
 	};
 	
