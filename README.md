@@ -2,6 +2,7 @@
 A simple product countdown plugin for WordPress and WooCommerce with a javascript countdown display
 
 * Adds a countdown timer to the single product page.
+* Start and end dates are associated with all variations of a product [no individual variation countdown settings].
 * Hides the buy form from a product's page when the time is up after refresh.
 * Keeps the buy form for users that have accessed the product before the timer ends so they may purchase.
 * Does not disable the ability to purchase the product if it has already been added to a cart before the timer runs out.
