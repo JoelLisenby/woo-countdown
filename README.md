@@ -6,6 +6,9 @@ A simple product countdown plugin for WordPress and WooCommerce with a javascrip
 * Keeps the buy form for users that have accessed the product before the timer ends so they may purchase.
 * Does not disable the ability to purchase the product if it has already been added to a cart before the timer runs out.
 
+# Setting the start and end dates
+Set the "Countdown Start Date" and "Countdown End Date" options under the "Advanced" tab of  "Product Data" 
+
 # Example Manual Template Usage
 
 Displays the counter for a single product
