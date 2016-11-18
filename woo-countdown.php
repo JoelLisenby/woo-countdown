@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Woo Countdown
-Version: 1.0.3
+Version: 1.0.4
 Description: A simple product countdown plugin
 Author: Joel Lisenby
 Author URI: https://www.joellisenby.com/
